@@ -12,11 +12,6 @@
   {
     "FirstName": "john",
     "LastName": "doe",
-    "CourseName": "py2000"
-  },
-  {
-    "FirstName": "john",
-    "LastName": "doe",
-    "CourseName": "Py200"
+    "CourseName": "Python 200"
   }
 ]
